@@ -1,4 +1,4 @@
-### Izael :computer:
+### Izael Souza :computer:
 Hello! My name is João Vitor Izael. I am currently an undergraduate student at Unicamp - FT. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
 I am passionate about programming and learning new things!
 

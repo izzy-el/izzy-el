@@ -12,7 +12,7 @@ Here are some technologies I have studied and used in projects:
 - Python for Data Science :snake: :bar_chart:
   - scikit-learn
   - Matplotlib
-  - Pandas
+  - Pandas :panda_face:
   - seaborn
 
 <!--

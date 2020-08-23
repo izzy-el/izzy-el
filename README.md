@@ -3,10 +3,9 @@ Hello! My name is João Vitor Izael. I am currently an undergraduate student at 
 I am passionate about programming and learning new things!
 
 Experiences: <br>
- -I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
-  My team is BombBotz 6217! :black_heart: :heart:
-
-Currently a trainee at Atria Jr :purple_heart: :bat:
+ - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
+ - My team is BombBotz 6217! :black_heart: :heart:
+ - Currently a trainee at Atria Jr :purple_heart: :bat:
 
 Here are some technologies I have studied and used in projects:
 - Java

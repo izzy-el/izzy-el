@@ -2,7 +2,7 @@
 Hello! My name is João Vitor Izael. I am currently an undergraduate student at Unicamp - FT. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
 I am passionate about programming and learning new things!
 
-⚡ Fun fact:<br>
+⚡ Fun fact:
  - Exchange student in MN, US.
  - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
  - My team is BombBotz 6217! :black_heart: :heart:

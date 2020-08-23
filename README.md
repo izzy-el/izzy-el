@@ -19,7 +19,7 @@ Here are some technologies I have studied and used in projects:
   - Pandas :panda_face:
   - seaborn
 
-📫 Contact me:<tab>
+📫 Contact me: 
 [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="20">](https://www.linkedin.com/in/jo%C3%A3o-vitor-izael-souza-302a16192/) [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="20">](j175037@dac.unicamp.br)
 
 

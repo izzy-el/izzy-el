@@ -5,15 +5,15 @@ I am passionate about programming and learning new things!
 ⚡ Fun fact:
  - Exchange student in MN, US.
  - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
- - My team is BombBotz 6217! 🤠:black_heart: :heart:
+ - My team is BombBotz 6217! 🤠:black_heart::heart:
  - I, with the help of my coach, developed a ScoutApp (repository is in my GitHub :octocat:) for my team, BombBotz!
- - Currently a trainee at Atria Jr :purple_heart: :bat:
+ - Currently a trainee at Atria Jr :purple_heart::bat:
 
 Here are some technologies I have studied and used in projects:
 - Java
 - C/C++
 - Web Development (HTML, JS, CSS)
-- Python for Data Science :snake: :bar_chart:
+- Python for Data Science :snake::bar_chart:
   - scikit-learn
   - Matplotlib
   - Pandas :panda_face:

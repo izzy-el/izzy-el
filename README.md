@@ -19,7 +19,8 @@ Here are some technologies I have studied and used in projects:
   - Pandas :panda_face:
   - seaborn
   
-|  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/jo%C3%A3o-vitor-izael-souza-302a16192/) |
+|  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/jo%C3%A3o-vitor-izael-souza-302a16192/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](j175037@dac.unicamp.br)
+|---|---|
 
 <!--
 **izzy-el/izzy-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,7 +20,7 @@ Here are some technologies I have studied and used in projects:
   - seaborn
 
 📫 Contact me: 
-[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="20">](https://www.linkedin.com/in/jo%C3%A3o-vitor-izael-souza-302a16192/) [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="20">](j175037@dac.unicamp.br) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="izzy-el's DEV Profile" height="20" width="20">](https://dev.to/izzyel)
+[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="20">](https://www.linkedin.com/in/jo%C3%A3o-vitor-izael-souza-302a16192/) [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="20">](j175037@dac.unicamp.br) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="izzy-el's DEV Profile" width="20">](https://dev.to/izzyel)
 
 
 <!--

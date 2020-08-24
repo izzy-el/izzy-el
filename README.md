@@ -13,7 +13,7 @@ Here are some technologies I have studied and used in projects:
 - Java
 - C/C++
 - Web Development (HTML, JS, CSS)
-- Python for Data Science :snake::bar_chart:
+- Python for Data Science (basic) :snake::bar_chart:
   - scikit-learn
   - Matplotlib
   - Pandas :panda_face:

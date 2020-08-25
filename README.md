@@ -3,6 +3,7 @@ Hello! My name is Izael. I am currently an undergraduate student at Unicamp - FT
 I am passionate about programming and learning new things!
 
 ⚡ Fun fact:
+ - FCE Certificate from Cambridge :mortar_board:
  - Exchange student in MN, US. (2018-2019)
  - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
  - My team is BombBotz 6217! 🤠:black_heart::heart:

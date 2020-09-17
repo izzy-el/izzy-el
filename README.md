@@ -7,8 +7,8 @@ I am passionate about programming and learning new things!
  - Exchange student in MN, US. (2018-2019)
  - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
  - My team is BombBotz 6217! 🤠:black_heart::heart:
- - Me and my coach developed a ScoutApp (repository is in my GitHub :octocat:) for my team, BombBotz!
- - Currently a trainee at Atria Jr :purple_heart::bat:
+ - Me and my coach developed a ScoutApp (repository is in my GitHub :octocat:) for our team, BombBotz!
+ - Project Advisor at Atria Jr :purple_heart::bat:
 
 Here are some technologies I have studied and used in projects:
 - Java

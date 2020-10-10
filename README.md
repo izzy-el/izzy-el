@@ -19,6 +19,8 @@ Here are some technologies I have studied and used in projects:
   - Matplotlib
   - Pandas :panda_face:
   - seaborn
+ 
+<img align="right" src="https://octodex.github.com/images/jetpacktocat.png" width="250">
   
 :clipboard: Languages stats so far:<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-el&layout=compact)](https://github.com/izzy-el)

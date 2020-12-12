@@ -21,9 +21,6 @@ Here are some technologies I have studied and used in projects:
   - seaborn
  
 <img align="right" src="https://octodex.github.com/images/jetpacktocat.png" width="250">
-  
-:clipboard: Languages stats so far:<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-el&layout=compact)](https://github.com/izzy-el)
 
 📫 Contact me:
 [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="20">](https://www.linkedin.com/in/izaelsouza/) [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="20">](j175037@dac.unicamp.br) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="izzy-el's DEV Profile" width="20">](https://dev.to/izzyel)

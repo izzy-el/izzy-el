@@ -17,6 +17,7 @@ I am passionate about programming and learning new things!
  <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/50/000000/css3.png"/>
  <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
+ <img src="https://img.icons8.com/color/50/000000/git.png"/>
 </p>
 
 ### Contact me 📫:

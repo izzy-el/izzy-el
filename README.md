@@ -7,6 +7,8 @@ I am passionate about programming and learning new things!
  - Exchange student in MN, US. (2018-2019)
  - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
 
+<p align="left"><img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=25px, width=25px/> Currently learning Julia!</p>
+
 ### Technologies
 <p align="left">
  <img src="https://img.icons8.com/color/50/000000/python.png"/>

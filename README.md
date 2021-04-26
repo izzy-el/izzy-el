@@ -1,30 +1,28 @@
 ### Izael Souza :computer:
-Hello! I am Izael, an undergraduate student at Unicamp - FT. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
+Hello! I am Izael, an undergraduate student at Unicamp - FT, currently pursuing a Bachelor of Information Systems. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
 I am passionate about programming and learning new things!
 
-⚡ Fun facts about me:
+⚡ About me:
  - IT Coordinator at Atria Jr :purple_heart::bat:
  - Exchange student in MN, US. (2018-2019)
- - FCE Certificate from Cambridge :mortar_board:
  - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
- - My robotics team is BombBotz 6217! 🤠:black_heart::heart:
- - Me and my coach developed a ScoutApp (repository is on GitHub :octocat:) for our robotics team!
 
-Here are some technologies I have studied and used in projects:
-- Java ☕
-- C/C++
-- Web Development (HTML, JS, CSS)
-- Dart/Flutter 🎯
-- Python for Data Science (basic) :snake::bar_chart:
-  - scikit-learn
-  - Matplotlib
-  - Pandas :panda_face:
-  - seaborn
+### Technologies
+<p align="left">
+ <img src="https://img.icons8.com/color/50/000000/python.png"/>
+ <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
+ <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
+ <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+ <img src="https://img.icons8.com/color/50/000000/flutter.png"/>
+ <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
+ <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
+</p>
 
-📫 Contact me:
-[<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="20">](https://www.linkedin.com/in/izaelsouza/) [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="20">](j175037@dac.unicamp.br) [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="izzy-el's DEV Profile" width="20">](https://dev.to/izzyel)
+### Contact me 📫:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
-
+[linkedin]: https://www.linkedin.com/in/izaelsouza/
 <!--
 **izzy-el/izzy-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

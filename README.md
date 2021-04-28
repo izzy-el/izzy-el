@@ -5,7 +5,7 @@ I am passionate about programming and learning new things!
 ⚡ About me:
  - IT Coordinator at Atria Jr :purple_heart::bat:
  - Exchange student in MN, US. (2018-2019)
- - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
+ - FIRST Robotics Competition Alumni (FRC). :robot: <br>
 
 ### Currently learning:
 <p align="left"><img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=50px, width=50px/></p>

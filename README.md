@@ -8,7 +8,7 @@ I am passionate about programming and learning new things!
  - I am an Alumni at FIRST Robotics Competition (FRC). :robot: <br>
 
 ### Currently learning:
-<p align="left"><img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=25px, width=25px/></p>
+<p align="left"><img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=50px, width=50px/></p>
 
 ### Technologies
 <p align="left">

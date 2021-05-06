@@ -8,23 +8,23 @@ I am passionate about programming and learning new things!
  - FIRST Robotics Competition Alumni (FRC). :robot: <br>
 
 ### Currently learning:
-<p align="left"><img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=50px, width=50px/></p>
+<p align="left"><img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=45px, width=45px/></p>
 
 ### Technologies
 <p align="left">
- <img src="https://img.icons8.com/color/50/000000/python.png"/>
- <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
- <img src="https://img.icons8.com/color/50/000000/c-programming.png"/>
- <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
- <img src="https://img.icons8.com/color/50/000000/flutter.png"/>
- <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
- <img src="https://img.icons8.com/color/50/000000/css3.png"/>
- <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
- <img src="https://img.icons8.com/color/50/000000/git.png"/>
+ <img src="https://img.icons8.com/color/45/000000/python.png"/>
+ <img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo.png"/>
+ <img src="https://img.icons8.com/color/45/000000/c-programming.png"/>
+ <img src="https://img.icons8.com/color/45/000000/c-plus-plus-logo.png"/>
+ <img src="https://img.icons8.com/color/45/000000/flutter.png"/>
+ <img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/>
+ <img src="https://img.icons8.com/color/45/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
+ <img src="https://img.icons8.com/color/45/000000/git.png"/>
 </p>
 
 ### Contact me 📫:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/color/45/000000/linkedin.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/izaelsouza/
 <!--

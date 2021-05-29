@@ -7,10 +7,7 @@ I am passionate about programming and learning new things!
  - Exchange student in MN, US. (2018-2019)
  - FIRST Robotics Competition Alumni (FRC). :robot: <br>
 
-### Currently learning:
-<p align="left"><img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=45px, width=45px/></p>
-
-### Technologies
+### Technologies I have used before:
 <p align="left">
  <img src="https://img.icons8.com/color/45/000000/python.png"/>
  <img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo.png"/>
@@ -20,6 +17,16 @@ I am passionate about programming and learning new things!
  <img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/45/000000/css3.png"/>
  <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
+ <img src="https://img.icons8.com/color/45/000000/git.png"/>
+ <img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=45px, width=45px/>
+</p>
+
+### Intermediate Knowledge on:
+<p align="left">
+ <img src="https://img.icons8.com/color/45/000000/python.png"/>
+ <img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo.png"/>
+ <img src="https://img.icons8.com/color/45/000000/c-programming.png"/>
+ <img src="https://img.icons8.com/color/45/000000/c-plus-plus-logo.png"/>
  <img src="https://img.icons8.com/color/45/000000/git.png"/>
 </p>
 

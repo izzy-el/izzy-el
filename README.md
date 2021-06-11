@@ -1,4 +1,4 @@
-### Izael Souza :computer:
+## Izael Souza :computer:
 Hello! I am Izael, an undergraduate student at Unicamp - FT, currently pursuing a Bachelor of Information Systems. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
 I am passionate about programming and learning new things!
 
@@ -17,8 +17,8 @@ I am passionate about programming and learning new things!
  <img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/>
  <img src="https://img.icons8.com/color/45/000000/css3.png"/>
  <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
- <img src="https://img.icons8.com/color/45/000000/git.png"/>
  <img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=45px, width=45px/>
+  <img src="https://img.icons8.com/color/45/000000/git.png"/>
 </p>
 
 ### Intermediate Knowledge on:

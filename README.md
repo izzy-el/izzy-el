@@ -18,7 +18,8 @@ I am passionate about programming and learning new things!
  <img src="https://img.icons8.com/color/45/000000/css3.png"/>
  <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
  <img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=45px, width=45px/>
-  <img src="https://img.icons8.com/color/45/000000/git.png"/>
+ <img src="https://img.icons8.com/color/45/000000/latex.png"/>
+ <img src="https://img.icons8.com/color/45/000000/git.png"/>
 </p>
 
 ### Intermediate Knowledge on:

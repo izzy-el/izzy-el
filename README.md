@@ -22,13 +22,13 @@ I am passionate about programming and learning new things!
  <img src="https://img.icons8.com/color/45/000000/git.png"/>
 </p>
 
-## Favorite Tools
+<!-- ## Favorite Tools
 <p align="left">
  <img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white"> 
  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-</p>
+</p> -->
 
 ### Contact me 📫:
 [<img src="https://img.icons8.com/color/45/000000/linkedin.png"/>][linkedin]

@@ -1,39 +1,58 @@
-## Izael Souza :computer:
-Hello! I am Izael, an undergraduate student at Unicamp - FT, currently pursuing a Bachelor of Information Systems. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
-I am passionate about programming and learning new things!
+# <b>Izael Souza :computer:</b>
+Hey there! I am Izael, an undergraduate student at Unicamp - FT, currently pursuing a Bachelor of Information Systems. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
+I am passionate programmer, always seeking to learn new things and expand my knowledge!
 
-⚡ About me:
- - IT Coordinator at Atria Jr :purple_heart::bat:
- - Exchange student in MN, US. (2018-2019)
- - FIRST Robotics Competition Alumni (FRC). :robot: <br>
+I have been exposed to several technologies throught my journey as a developer. I still do not know what area I want to follow but, as of right now, I am leaning more towards Backend Development and DataSciece. However, I am always open to try out new things and learn new technologies.
 
-### Technologies I have used before:
-<p align="left">
- <img src="https://img.icons8.com/color/45/000000/python.png"/>
- <img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo.png"/>
- <img src="https://img.icons8.com/color/45/000000/c-programming.png"/>
- <img src="https://img.icons8.com/color/45/000000/c-plus-plus-logo.png"/>
- <img src="https://img.icons8.com/color/45/000000/flutter.png"/>
- <img src="https://img.icons8.com/color/45/000000/html-5--v1.png"/>
- <img src="https://img.icons8.com/color/45/000000/css3.png"/>
- <img src="https://img.icons8.com/color/45/000000/javascript.png"/>
- <img src="https://symbols.getvecta.com/stencil_85/53_julia-language-icon.d9f53761e1.svg", height=45px, width=45px/>
- <img src="https://img.icons8.com/color/45/000000/latex.png"/>
- <img src="https://img.icons8.com/color/45/000000/git.png"/>
-</p>
+## :dart: Goal this year
+### Contribute to some open source project!
 
-<!-- ## Favorite Tools
-<p align="left">
- <img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white"> 
- <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
- <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-</p> -->
+## ⚡ About me:
+- Sophomore in College
+- IT Coordinator at Atria Jr :purple_heart::bat:
+- Exchange student in MN, US. (2018-2019)
+- FIRST Robotics Competition Alumni (FRC). :robot: <br>
+- I like to spend time on Code Wars trying to solve some challenges and improving my Problem Solving and Programming skills.
 
-### Contact me 📫:
-[<img src="https://img.icons8.com/color/45/000000/linkedin.png"/>][linkedin]
+## <b>🔭 I’m currently working on ...</b>
+- Clinica Veterinaria (Veterinary Clinic) simple software using Java;
+- Web Minesweeper;
+- Managing and developing projects in my company;
 
-[linkedin]: https://www.linkedin.com/in/izaelsouza/
+# <b>Technologies</b>
+
+## Tools
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=red)
+
+## General
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AD?style=for-the-badge&logo=python&logoColor=white)
+
+## Mobile Development
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Want to Learn
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Julia](https://img.shields.io/badge/Julia-CC6699?style=for-the-badge&logo=julia&logoColor=white)
+
+## Contact me 📫:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaelsouza/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jizael@atriajr.com.br)
 <!--
 **izzy-el/izzy-el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

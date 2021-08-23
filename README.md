@@ -19,7 +19,7 @@ I have been exposed to several technologies throught my journey as a developer. 
 - Web Minesweeper;
 - Managing and developing projects in my company;
 
-## <b>👨‍💻 Technologies</b>
+## <b>👨‍💻 Currently using...</b>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AD?style=for-the-badge&logo=python&logoColor=white)

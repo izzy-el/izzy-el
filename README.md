@@ -2,7 +2,7 @@
 Hey there! I am Izael, an undergraduate student at Unicamp - FT, currently pursuing a Bachelor of Information Systems. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
 I am passionate programmer, always seeking to learn new things and expand my knowledge!
 
-I have been exposed to several technologies throught my journey as a developer. I still do not know what area I want to follow but, as of right now, I am leaning more towards Backend Development and DataSciece. However, I am always open to try out new things and learn new technologies.
+I have been exposed to several technologies throughout my journey as a developer. I still do not know what area I want to follow but, as of right now, I am leaning more towards Backend Development and DataSciece. However, I am always open to try out new things and learn new technologies.
 
 ## :dart: Goal this year
 ### Contribute to some open source project!

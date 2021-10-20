@@ -1,18 +1,13 @@
-# <b>Izael Souza :computer:</b>
-Hey there! I am Izael, an undergraduate student at Unicamp - FT, currently pursuing a Bachelor of Information Systems. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"><br>
-I am passionate programmer, always seeking to learn new things and expand my knowledge!
-
-I have been exposed to several technologies throughout my journey as a developer. I still do not know what area I want to follow but, as of right now, I am leaning more towards Backend Development and DataSciece. However, I am always open to try out new things and learn new technologies.
-
-## :dart: Goal this year
-### Contribute to some open source project!
+# <b>Izael Souza :computer: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"></b>
 
 ## ⚡ About me:
 - Sophomore in College
 - IT Coordinator at Atria Jr :purple_heart::bat:
 - Exchange student in MN, US. (2018-2019)
 - FIRST Robotics Competition Alumni (FRC). :robot: <br>
-- I like to spend time on Code Wars trying to solve some challenges and improving my Problem Solving and Programming skills.
+
+## :dart: Goal this year
+### Contribute to some open source project!
 
 ## <b>🔭 I’m currently working on ...</b>
 - Clinica Veterinaria (Veterinary Clinic) simple software using Java;
@@ -34,6 +29,7 @@ I have been exposed to several technologies throughout my journey as a developer
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
 
 ## I Want to Develop some Projects using
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)

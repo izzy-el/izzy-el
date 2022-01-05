@@ -1,8 +1,8 @@
 # <b>Izael Souza :computer: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px"></b>
 
 ## ⚡ About me:
-- Sophomore in College
-- IT Coordinator at Atria Jr :purple_heart::bat:
+- Junior in College
+- Project Director at Atria Jr :purple_heart::bat:
 - Exchange student in MN, US. (2018-2019)
 - FIRST Robotics Competition Alumni (FRC). :robot: <br>
 

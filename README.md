@@ -6,7 +6,7 @@ Undergraduate Student and Researcher
 
 I am currently in my Junior year of my Information Sciences major. I had the opportunity to be member of Team 6217 and compete on FIRST Robotics Competition during my Exchange Year (2018-2019). Now, I am working as Project and Commercial Director at School of Technology's Junior Enterprise, Atria Jr.
 
-* 🌍  I'm based in Brasil 🇧🇷
+* 🌍  I'm based in Brazil 🇧🇷
 * 🖥️  See my portfolio at [My Website](http://https://izzy-el.github.io/personal-website/)
 * ✉️  You can contact me at [jvizael@gmail.com](mailto:jvizael@gmail.com)
 * 🧠  I'm learning Backend, Linux and Data Visualization

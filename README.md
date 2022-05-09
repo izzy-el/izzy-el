@@ -7,7 +7,7 @@ Undergraduate Student and Researcher
 I am currently in my Junior year of my Information Sciences major. I had the opportunity to be member of Team 6217 and compete on FIRST Robotics Competition during my Exchange Year (2018-2019). Now, I am working as Project and Commercial Director at School of Technology's Junior Enterprise, Atria Jr.
 
 * 🌍  I'm based in Brazil 🇧🇷
-* 🖥️  See my portfolio at [My Website](http://https://izzy-el.github.io/personal-website/)
+* 🖥️  See my portfolio at [My Website](https://izzy-el.github.io/personal-website/)
 * ✉️  You can contact me at [jvizael@gmail.com](mailto:jvizael@gmail.com)
 * 🧠  I'm learning Backend, Linux and Data Visualization
 
@@ -30,4 +30,4 @@ I am currently in my Junior year of my Information Sciences major. I had the opp
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/izzyel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/izzy-el" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/izaelsouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12772701/izael-souza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jvizael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/izzyel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/izaelsouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12772701/izael-souza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>

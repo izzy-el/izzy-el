@@ -5,7 +5,7 @@ Hi 👋 My name is Izael
 
 ### About Me
 * 🌎 Brazilian 🇧🇷
-* 👨‍🎓 Information Sciences Major
+* 👨‍🎓 Information Sciences Major - 3rd year
 * 🔬 Undergraduate Student Researcher - Data Visualization and Oil Engineering Field
 * 👨‍💼 Project and Commercial Director - Atria Jr.
 * 🌐 Exchange Student - MN, USA 2018/2019 🇺🇸

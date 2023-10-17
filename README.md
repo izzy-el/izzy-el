@@ -61,8 +61,6 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://holopin.io/api/user/board?user=jvizael"  />
-</div>
+[![An image of @jvizael's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jvizael)](https://holopin.io/@jvizael)
 
 ###

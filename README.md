@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌎 Brazilian 🇧🇷<br>🏦 Intern @BTG Pactual<br>👨‍🎓 Information Sciences Major - 4th year<br>🔬 Undergraduate Student Researcher - Data Visualization and Oil Engineering Field<br>👨‍💼 Business Counselor - Atria Jr.<br>🌐 Exchange Student - MN, USA 2018/2019 🇺🇸<br>🤖 FIRST Robotics Alumni (6217) - 2018/2019<br>🧠 Currently learning Backend, Linux and Data Visualization</p>
+<p align="left">🌎 Brazilian 🇧🇷<br>🏦 IT Analyst<br>👨‍🎓 Bachelor on Information Systems<br>🔬 Former Undergraduate Student Researcher - Data Visualization and Oil Engineering Field<br>👨‍💼 Former Business Counselor - Atria Jr.<br>🌐 Exchange Student - MN, USA 2018/2019 🇺🇸<br>🤖 FIRST Robotics Alumni (6217) - 2018/2019<br>🧠 Currently learning Backend and Cloud Computing</p>
 
 ###
 

@@ -10,59 +10,70 @@
 
 ###
 
-<p align="left">🌎 Brazilian 🇧🇷<br>🏦 IT Analyst<br>👨‍🎓 Bachelor on Information Systems<br>🔬 Former Undergraduate Student Researcher - Data Visualization and Oil Engineering Field<br>👨‍💼 Former Business Counselor - Atria Jr.<br>🌐 Exchange Student - MN, USA 2018/2019 🇺🇸<br>🤖 FIRST Robotics Alumni (6217) - 2018/2019<br>🧠 Currently learning Backend and Cloud Computing</p>
+<p align="left">🌎 Brazilian 🇧🇷<br>🏦 Software Engineer<br>👨‍🎓 Bachelor on Information Systems<br>🔬 Former Undergraduate Student Researcher - Data Visualization and Oil Engineering Field<br>👨‍💼 Former Member Junior Enterprise<br>🤖 FIRST Robotics Alumni - 2018/2019</p>
 
 ###
 
-<h2 align="left">Current Tech Stack</h2>
+<h2 align="center">By the way, I use...</h2>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/rabbitmq-icon.svg" alt="rabbitMq" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height="40" width="40" alt="vim logo"  />&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</div>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nix,neovim,emacs,linux,latex" />
+    </a>
+</p>
 
 ###
 
-<h2 align="left">Previous Experience</h2>
+<h2 align="center">Currently working with...</h2>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>&nbsp&nbsp
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>&nbsp&nbsp
-</div>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,cs,dotnet,dynamodb,git,postgres,js,react" />
+    </a>
+</p>
 
 ###
 
-<h2 align="left">Social</h2>
+<h2 align="center">I have also worked with...</h2>
 
 ###
 
-<div align="left">
-  <a href="https://linkedin.com/in/izaelsouza" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/12772701/izael-souza" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,python,docker,kubernetes" />
+    </a>
+</p>
+
+###
+
+<h2 align="center">It has been a good while but...</h2>
+
+###
+
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,html,css,dart,flutter,mysql" />
+    </a>
+</p>
+
+###
+
+<h2 align="center">Social</h2>
+
+###
+
+<p align="center">
+    <a href="https://linkedin.com/in/izaelsouza">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="https://stackoverflow.com/users/12772701/izael-souza">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" />
+    </a>
+<p align="center">
 
 ###
 
